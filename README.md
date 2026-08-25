@@ -1,6 +1,6 @@
 # Boden
 
-**AI Product Manager @ ByteDance (Douyin Search) · LLM evaluation & agent strategy · I ship what I design.**
+**AI Product Manager @ ByteDance · LLM evaluation & agent strategy · I ship what I design.**
 
 [LinkedIn](https://www.linkedin.com/in/%E6%BB%9A%E7%9F%B3-%E4%B8%80%E9%A2%97-5709b2430/) · [info2act.com](https://info2act.com) · WeChat 公众号「超级个体阿东」 · **[中文版 →](README.zh-CN.md)**
 
