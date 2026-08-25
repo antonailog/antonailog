@@ -2,6 +2,8 @@
 
 **AI Product Manager @ ByteDance · LLM evaluation & agent strategy · I ship what I design.**
 
+*Tsinghua M.S. → data engineering → AI engineering → AI product.*
+
 [LinkedIn](https://www.linkedin.com/in/%E6%BB%9A%E7%9F%B3-%E4%B8%80%E9%A2%97-5709b2430/) · [info2act.com](https://info2act.com) · WeChat 公众号「超级个体阿东」 · **[中文版 →](README.zh-CN.md)**
 
 ## 🔭 Now building
@@ -31,6 +33,12 @@ A self-hostable AI information engine: 400+ sources (X, Reddit, WeChat, Hacker N
 **Experiments**
 
 - AI-generated content pipeline on Xiaohongshu — LLM + SOTA text-to-image + n8n, 95% automated: 150+ posts in 50 days, 10k followers at peak
+
+## 🏆 Highlights
+
+- Champion, Meituan AI Hackathon 2024 (travel track) — 4-person team; solution later adopted by a 30+ person product org
+- Internal AI-coding instructor, Meituan (2025)
+- Outstanding Master's Thesis, Tsinghua University (2022)
 
 ## ✍️ Writing
 
