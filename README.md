@@ -1,6 +1,6 @@
 # Boden
 
-AI Product Manager @ ByteDance (Douyin Search) · LLM evaluation & agent strategy.
+AI Product Manager @ ByteDance· LLM evaluation & agent strategy.
 I ship what I design.
 
 ## Now building
