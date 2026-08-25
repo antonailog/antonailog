@@ -1,6 +1,6 @@
 # Boden
 
-**AI 产品经理 @ 字节跳动（抖音搜索）· LLM 评测与 Agent 策略 · 自己设计的东西，自己做出来。**
+**AI 产品经理 @ 字节跳动· LLM 评测与 Agent 策略 · 自己设计的东西，自己做出来。**
 
 [LinkedIn](https://www.linkedin.com/in/%E6%BB%9A%E7%9F%B3-%E4%B8%80%E9%A2%97-5709b2430/) · [info2act.com](https://info2act.com) · 公众号「超级个体阿东」 · **[English →](README.md)**
 
