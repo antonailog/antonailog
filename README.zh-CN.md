@@ -17,7 +17,7 @@
   <a href="https://www.xiaohongshu.com/user/profile/5e61ee300000000001006762" title="小红书"><img src="assets/icons/xiaohongshu.svg" alt="小红书" width="40" height="40" /></a>&nbsp;
   <a href="https://web.okjike.com/u/AFF50239-39DB-4140-811D-26EC8DCF9422" title="即刻"><img src="assets/icons/jike.svg" alt="即刻" width="40" height="40" /></a>&nbsp;
   <a href="assets/wechat-qr.jpg" title="公众号：阿東的AI手记（二维码）"><img src="assets/icons/wechat.svg" alt="公众号：阿東的AI手记（二维码）" width="40" height="40" /></a>&nbsp;
-  <a href="https://my.feishu.cn/wiki/FFK3wRli4i0ouUk0KXkcaX6Un5b" title="知识库：阿東的AI宝库"><img src="assets/icons/feishu.svg" alt="知识库：阿東的AI宝库" width="40" height="40" /></a>&nbsp;
+  <a href="https://my.feishu.cn/wiki/FFK3wRli4i0ouUk0KXkcaX6Un5b" title="知识库：阿東的AI手记"><img src="assets/icons/feishu.svg" alt="知识库：阿東的AI手记" width="40" height="40" /></a>&nbsp;
   <a href="mailto:982048097@qq.com" title="邮箱"><img src="assets/icons/mail.svg" alt="邮箱" width="40" height="40" /></a>
 </p>
 
@@ -145,7 +145,7 @@
 - 2026-02-25 · [用好Agent后，我理解了什么叫“超级个体”](https://mp.weixin.qq.com/s/uNBs3YS18RZwB0CrvdNpRQ)
 - 2026-02-20 · [Claude Code 写完了你还不知道？一个桌面通知工具解决！](https://mp.weixin.qq.com/s/cwTUP71iaf295RfaW8XVcg)
 
-更早的 LLM / Agent 产品笔记近百篇，收在[阿東的AI宝库](https://my.feishu.cn/wiki/FFK3wRli4i0ouUk0KXkcaX6Un5b)。
+更早的 LLM / Agent 产品笔记近百篇，收在[阿東的AI手记](https://my.feishu.cn/wiki/FFK3wRli4i0ouUk0KXkcaX6Un5b)。
 
 ---
 
